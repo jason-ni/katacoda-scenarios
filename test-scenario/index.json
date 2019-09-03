@@ -1,17 +1,13 @@
 {
-  "title": "Test Coda",
-  "description": "My first katacoda",
+  "title": "test",
+  "description": "tes",
   "difficulty": "Beginner",
-  "time": "10",
+  "time": "1",
   "details": {
     "steps": [
       {
         "title": "Step 1",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
       }
     ],
     "intro": {
@@ -22,9 +18,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "vscode"
+    "imageid": "ubuntu"
   }
 }
